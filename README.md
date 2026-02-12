@@ -1,8 +1,8 @@
-# Banking-Managment-System
-Complete Banking Management System in C++
+# Complete Banking Management System in C++
+
 Overview
 
-This project is a Comprehensive Banking Management System developed in C++. It simulates real-world banking operations, demonstrating practical use of Object-Oriented Programming (OOP), file handling, and data management. Users can manage accounts, perform transactions, and maintain transaction histories securely.
+The Complete Banking Management System is a C++ project that simulates real-world banking operations. It showcases practical applications of Object-Oriented Programming (OOP), file handling, and data management. Users can manage accounts, perform transactions, and securely maintain transaction histories.
 
 Features
 
@@ -10,7 +10,7 @@ Account Management: Create, update, and delete user accounts.
 
 Transactions: Deposit, withdraw, and transfer funds.
 
-Transaction History: Detailed record of all operations.
+Transaction History: Maintains detailed records of all operations.
 
 User Authentication: Secure login with limited attempts.
 
@@ -26,7 +26,7 @@ How to Run
 
 Clone the repository:
 
-git clone https://github.com/yourusername/Banking-Management-System.git
+git clone https://github.com/Amir-Moavia/Banking-Management-System.git
 
 
 Navigate to the project folder:
@@ -45,19 +45,15 @@ Run the executable:
 
 Future Enhancements
 
-GUI integration for a modern user interface.
+GUI integration for a modern interface.
 
 Online banking simulation with database support.
 
-Enhanced security features for user authentication.
-
-Screenshots
-
-(Optional: Add screenshots of your program in action to showcase functionality)
+Enhanced security features for authentication.
 
 Author
 
-Amir Moavia – LinkedIn
+amirmoavia – LinkedIn
  | Portfolio
 
 License
