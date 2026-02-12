@@ -26,7 +26,7 @@ How to Run
 
 Clone the repository:
 
-git clone https://github.com/Amir-Moavia/Banking-Management-System.git
+git clone https://github.com/Amir-Moavia/Banking-Management-System
 
 
 Navigate to the project folder:
